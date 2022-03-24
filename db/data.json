@@ -1,0 +1,300 @@
+{
+  "ordenes": [
+  ],
+  "belleza": [
+    {
+      "id": 1,
+      "name": "Secador",
+      "price": 34000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_755924-MLA48183074568_112021-O.webp",
+      "Marca": "Nova",
+      "color": "Violeta",
+      "description": "Secador de cabello Nova NV-9103 110V"
+    },
+    {
+      "id": 2,
+      "name": "Olla De Cera",
+      "price": 39900,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_939320-MCO48632811252_122021-O.webp",
+      "Marca": "Pro",
+      "color": "Blanca",
+      "description": "Olla Cera Depilatoria Perlas, Calentador Y Espátulas"
+    },
+    {
+      "id": 3,
+      "name": "Combo",
+      "price": 300000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_784973-MCO48812015281_012022-O.webp",
+      "Marca": "Remington",
+      "color": "Unico",
+      "description": "Combo Plancha Remington Aguacate + Secador"
+    },
+    {
+      "id": 4,
+      "name": "Rizador de Cabello",
+      "price": 19000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_655841-MCO26502171338_122017-O.webp",
+      "Marca": "Nova",
+      "color": "Surtido",
+      "description": "Rizador Nova De Cabello Con Cubierta En Cerámica El Mejor"
+    },
+    {
+      "id": 5,
+      "name": "Maquina de Afeitar",
+      "price": 230000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_807229-MLA45794291827_052021-O.webp",
+      "Marca": "Wahl",
+      "color": "Plata y Roja",
+      "description": "Cortadora de pelo Wahl Professional 5 Star Magic Clip"
+    },
+    {
+      "id": 6,
+      "name": "Cepillo Secador",
+      "price": 54000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_993093-MCO45096143318_032021-O.webp",
+      "Marca": "Hair Dry",
+      "color": "Surtido",
+      "description": "Cepillo Secador Voluminizador Salon One-step Hair Dry"
+    },
+    {
+      "id": 7,
+      "name": "Plancha de Cabello",
+      "price": 200000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_896816-MLA45342134739_032021-O.webp",
+      "Marca": "Remington",
+      "color": "negra y rosa",
+      "description": "Plancha de cabello Remington Keratin Therapy"
+    },
+    {
+      "id": 8,
+      "name": "Combo",
+      "price": 99000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_848362-MCO46170100508_052021-O.webp",
+      "Marca": "Nova",
+      "color": "Violeta y azul",
+      "description": "Secador 3500w + Plancha Cabello + Rizador + Peine"
+    }
+  ],
+  "fitness": [
+    {
+      "id": 1,
+      "name": "Bandas elasticas",
+      "price": 47000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_742939-MCO43951597218_102020-O.webp",
+      "Marca": "",
+      "color": "Surtido",
+      "description": "Kit 5 Bandas Elásticas Tela Wonder Para Gym, Deporte, Casa"
+    },
+    {
+      "id": 2,
+      "name": "Pesas",
+      "price": 159900,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_673157-MCO46598110363_072021-O.webp",
+      "Marca": "Termoforrad",
+      "color": "Negro y rojo",
+      "description": "Kit De Pesas Ejercicio Mancuernas Juego De Pesas Termoforrad"
+    },
+    {
+      "id": 3,
+      "name": "Caminadora electrica",
+      "price": 1455000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_901050-MLA48236220846_112021-O.webp",
+      "Marca": "UrbanFit",
+      "color": "Negra",
+      "description": "Caminadora eléctrica Pro Gold 8000 de 110V, garantia de un año por defecto de fabrica"
+    },
+    {
+      "id": 4,
+      "name": "Colchoneta",
+      "price": 19000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_946123-MCO43498090646_092020-O.webp",
+      "Marca": "Basics",
+      "color": "Plomo",
+      "description": "Colchoneta Para Hacer Ejercicio, acolchada y liviana, ideal para llevar"
+    },
+    {
+      "id": 5,
+      "name": "Bicicleta estatica",
+      "price": 680000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_957524-MCO49257138796_032022-O.webp",
+      "Marca": "Spinning Gimnasio",
+      "color": "Negro",
+      "description": "Bicicleta Estatica soporta 200kg de peso, ajustable, comoda y confortable"
+    },
+    {
+      "id": 6,
+      "name": "Cuerda Lazo",
+      "price": 20000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_788531-MCO48353225802_112021-O.webp",
+      "Marca": "San Patricio",
+      "color": "Negro, Rojo y Azul",
+      "description": "Cuerda Lazo De Velocidad Para Saltar Guaya Ajustable Gym, facil de transportar"
+    },
+    {
+      "id": 7,
+      "name": "Tapete de carga pesada",
+      "price": 56000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_647693-MCO45524838686_042021-O.webp",
+      "Marca": "SPERM DEPORTES",
+      "color": "Negra",
+      "description": "Tapete Caucho Gimnasio Fitness 1mt 1cm Grosor Tráfico Pesado ideal para pesas"
+    },
+    {
+      "id": 8,
+      "name": "Barra de ejercicio",
+      "price": 85500,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_959596-MCO45141118424_032021-O.webp",
+      "Marca": "Multiforce",
+      "color": "Negro",
+      "description": "Barras De Ejercicios Dominadas Y Fondos Garantia de un año por defecto de fabrica"
+    }
+  ],
+  "calzados": [
+    {
+      "id": 1,
+      "name": "Tenis Sterry",
+      "price": 99000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_658685-MCO48207141577_112021-O.webp",
+      "Marca": "Croydon",
+      "color": "Blanco",
+      "description": "Tenis Sterry Azul Para Mujer nueva coleccion 2021"
+    },
+    {
+      "id": 2,
+      "name": "Tenis para caballero",
+      "price": 59900,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_840089-MCO46942060019_082021-O.webp",
+      "Marca": "Producto Nacional",
+      "color": "Blanco",
+      "description": "Zapatillas Para Hombre Lindo Diseño Tenis Caballero"
+    },
+    {
+      "id": 3,
+      "name": "Zapatos Mocasin",
+      "price": 79000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_989024-MCO47932152794_102021-O.webp",
+      "Marca": "Genérica",
+      "color": "Negro",
+      "description": "Zapatos Mocasín Para Hombre Nueva Colección 2021"
+    },
+    {
+      "id": 4,
+      "name": "Calzado Tenis",
+      "price": 69000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_790183-MCO44906015363_022021-O.webp",
+      "Marca": "Sketcher",
+      "color": "Blanco",
+      "description": "Zapatillas Calzado Tenis Deportivo Para Dama Mujer"
+    },
+    {
+      "id": 5,
+      "name": "Tenis negros",
+      "price": 105000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_830178-MCO48207119274_112021-O.webp",
+      "Marca": "Croydon",
+      "color": "Negro",
+      "description": "Tenis Desama 1 Negro Para Hombre "
+    },
+    {
+      "id": 6,
+      "name": "Tenis de Luces",
+      "price": 110000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_751785-MCO31043853533_062019-O.webp",
+      "Marca": "Generico",
+      "color": "Blanco",
+      "description": "Tenis Zapatos Luces Led Envío Inmediat Usb"
+    },
+    {
+      "id": 7,
+      "name": "Tenis de Luces",
+      "price": 110000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_703734-MCO31005350028_062019-O.webp",
+      "Marca": "Generico",
+      "color": "Rojos",
+      "description": "Tenis Zapatos Luces Led Envío Inmediat Usb"
+    },
+    {
+      "id": 8,
+      "name": "Tenis de Luces",
+      "price": 110000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_933691-MCO28935317874_122018-O.webp",
+      "Marca": "Generico",
+      "color": "Negros",
+      "description": "Tenis Zapatos Luces Led Envío Inmediat Usb"
+    }
+  ],
+  "ropa": [
+    {
+      "id": 1,
+      "name": "Camiseta",
+      "price": 18000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_864216-MCO46929520207_072021-O.webp",
+      "Marca": "Fabricación nacional",
+      "color": "Surtido",
+      "description": "Camisetas Cuello Redondo En Algodón Varios Colores"
+    },
+    {
+      "id": 2,
+      "name": "Sudadera",
+      "price": 90000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_785536-MCO46643124626_072021-O.webp",
+      "Marca": "Producto Nacional",
+      "color": "Surtido",
+      "description": "Pantalón Sudadera Jogger Hombre X3 Unidades"
+    },
+    {
+      "id": 3,
+      "name": "Pantalon Jogger",
+      "price": 49000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_823417-MCO48814208133_012022-O.webp",
+      "Marca": "NORDDIK",
+      "color": "Surtido",
+      "description": "Pantalon Jogger Drill Pitillo (2019) Calidad 100"
+    },
+    {
+      "id": 4,
+      "name": "Conjunto",
+      "price": 879000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_923063-MCO46968428271_082021-O.webp",
+      "Marca": "Advance",
+      "color": "Gris y Rojo",
+      "description": "Conjunto Deportivo Sudadera Jogger Buzo Saco"
+    },
+    {
+      "id": 5,
+      "name": "Sudadera",
+      "price": 30000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_881132-MCO45734835561_042021-O.webp",
+      "Marca": "Fabricacion Nacional",
+      "color": "Surtido",
+      "description": "Pantalón De Sudadera Tipo Jogger De Mujer En Algodón"
+    },
+    {
+      "id": 6,
+      "name": "Camiseta",
+      "price": 25000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_856477-MCO49277572530_032022-O.webp",
+      "Marca": "Fabricacion Nacional",
+      "color": "Surtido",
+      "description": "Camiseta Tipo Polo Color Dama Mujer"
+    },
+    {
+      "id": 7,
+      "name": "Leggins",
+      "price": 65000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_988112-MCO46870100759_072021-O.webp",
+      "Marca": "Fabricacion nacional",
+      "color": "Surtidos",
+      "description": "Leggins Deportivo Control Abdomen Pantalón Mujer"
+    },
+    {
+      "id": 8,
+      "name": "Conjunto",
+      "price": 66000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_680264-MCO46567881111_062021-O.webp",
+      "Marca": "Fabricacion nacional",
+      "color": "Surtidos",
+      "description": "Conjunto Deportivo 3 Piezas Lycra Dama Fit - Gym"
+    }
+  ]
+}
